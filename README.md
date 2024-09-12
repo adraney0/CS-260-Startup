@@ -1,2 +1,2 @@
-# CS-260-Startup
-Startup Project for CS 260
+# startup
+Startup Application for BYU CS 260
