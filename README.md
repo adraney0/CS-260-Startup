@@ -4,13 +4,14 @@
 
 ### Elevator Pitch
 
-Have you ever played triangular peg solitaire? Or rather, have you ever played the game that is always on the tables at Cracker Barrel? Formaly known as triangular peg solitaire, this mind stretching game can be extremely entertaining. This application brings the game triangular peg solitaire to your fingertips. Users make moves jumping pegs over each other, attempting to win the game by leaving only a single peg remaining. 
+Have you ever played triangular peg solitaire? Or rather, have you ever played the game that is always on the tables at Cracker Barrel? Formally known as triangular peg solitaire, this mind stretching game can be extremely entertaining. This application brings the game triangular peg solitaire to your fingertips. Users make moves jumping pegs over each other, resulting in the peg that was jumped being removed, attempting to win the game by leaving only a single peg remaining. 
 
 ### Design
 
 ![Play Mock](TriangularPegPlayMock.png)
 ![Login Mock](TriangularPegLoginMock.png)
 
+Above are mock ups for the login and gameplay pages of triangular peg solitaire. 
 
 ### Key Features
 - Secure login over HTTPS
