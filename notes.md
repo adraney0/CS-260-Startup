@@ -15,3 +15,7 @@ http://18.235.207.184
 - serves up static HTML. CSS, and JS files
 - Acts as a gateway for subdomain requests to Simon and startup application services
 - Configuration File: ~/Caddyfile
+### HTTP,TLS, and Web Certificates
+- In the beginning, mainly used HTTP (non-secure hypertext transport protocol)
+- HTTPS: Secure Hypertext Transport Protocol
+- Certificate Issuer - responsible for verifying the certificate owner actually owns the domain represented by certificate
