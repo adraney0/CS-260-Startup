@@ -9,7 +9,8 @@
 2. Make changes to code
 3. Commit changes (git commit)
 4. Push changes to GitHub (git push)
-http://18.235.207.184
+http://18.235.207.184 - no longer works b/c caddy is set up
+https://webprogramming260.click
 ### Caddy
 - Handles all creation and rotation of web certificates
 - serves up static HTML. CSS, and JS files
